@@ -24,3 +24,15 @@ This heatmap shows the peak times for each gender. While it is apparent that men
 ![trips by usertype and gender per hour per day](/Resources/user_trips_by_type.png)
 
 For this heatmap the data was further separated by user type. The maps show that most of the riders are male subscribers to the service.
+
+## Summary
+
+Based on all of the data visualizations presented, it makes the need for the bike sharing service to market itself towards females in the area, as there is a large discrepancy between the number of males riding regularly versus females. By providing more bike stations in the most popular starting and ending locations.
+
+![popular start locations](/Resources/starting_locations.png)
+
+![popular end locations](/Resources/top_ending_locations.png)
+
+By utilizing the data shown in the maps above, representing the most common start and end locations throughout the city, it will be possible to maximize the number of users by increasing visibility and availability where neccessary.
+
+![link to dashboard](https://public.tableau.com/views/NYC_Citibike_analysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
