@@ -10,3 +10,17 @@ The objective for this project was providing analysis to convince potential inve
 From the above graph it can be seen that the majority of trips last between 0 and 10 minutes. Few trips last beyond that.
 
 ![checkout_by_gender](/Resources/checkout_by_gender.png)
+
+When splitting the data in the graph by gender, the results show similar trends with almost all rides lasting less than 20 minutes. Men take more trips and for a longer duration overall then Women.
+
+![heatmap of trips by hour per day](/Resources/trips_heatmap_perhour.png)
+
+The heatmap above shows us that the peak times for citi bike rides are at 8am and 5-6pm on the weekdays, and on the weekends the trips are much more evenly split between the hours of the day.
+
+![heatmap_gender_perday_byhour](/Resources/trips_by_gender_perhour.png)
+
+This heatmap shows the peak times for each gender. While it is apparent that men have many more rides total, the times that the rides are being taken are roughly the same for both genders.
+
+![trips by usertype and gender per hour per day](/Resources/user_trips_by_type.png)
+
+For this heatmap the data was further separated by user type. The maps show that most of the riders are male subscribers to the service.
